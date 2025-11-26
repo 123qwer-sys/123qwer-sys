@@ -24,9 +24,9 @@ Currently exploring: secure systems, network protocols, and building strategy ga
 
 ## 🔗 Connect With Me
 
-*(Links will be added later)*  
-- LinkedIn: *[Your LinkedIn]*  
-- Email: *yourmail@example.com*  
+ 
+- LinkedIn: *https://shorturl.at/1Dxwp*  
+- Email: *vr9872@gmail.com*  
 
 ---
 
