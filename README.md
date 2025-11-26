@@ -1,33 +1,41 @@
-# 👋 Hey, I'm Vishal Raj  
-### 🚀 Cybersecurity Enthusiast | Frontend/Game Developer | BTech CSE (GL Bajaj)
+# 👋 Hey, I’m Vishal Raj
 
-I love building modern web apps, mobile strategy games, and secure systems.
-Currently working on:
-- 🔐 End-to-end encrypted secret chat app  
-- 🎮 Aether Lords – a mobile strategy RPG  
-- 🌐 Improving my cloud, DBMS & DSA skills  
+### 🎓 BTech CSE-DS @ GL Bajaj Institute of Technology and Management  
+I’m passionate about **cybersecurity**, **networking**, and **game development**.  
+Currently exploring: secure systems, network protocols, and building strategy games.
 
 ---
 
-### 🔥 Tech Stack
-**Languages:** Java, Python, C++, JavaScript  
-**Frontend:** React, Tailwind, HTML/CSS  
-**Backend:** Node.js, Firebase, Firestore  
-**Security:** Cryptography, Key-Pairs, Hashing  
-**Tools:** Git, GitHub, VS Code, Postman  
+## 🛠️ My Tech Stack
+
+**Languages:** Java • Python • C++ • JavaScript  
+**Frontend / UI:** HTML • CSS • React (or plan to learn)  
+**Game / Tools / Others:** Unity / basic game dev *(or you can replace with what you use)*, Networking tools, Basic Linux / OS commands  
+**Areas of Interest:** Cybersecurity, Network Security, Game Logic / Mechanics, Data Structures & Algorithms  
 
 ---
 
-### 📊 GitHub Stats
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats & Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔗 Connect With Me
+
+*(Links will be added later)*  
+- LinkedIn: *[Your LinkedIn]*  
+- Email: *yourmail@example.com*  
 
 ---
 
-### 🌐 Connect With Me
-📩 Email: **yourmail@gmail.com**  
-🔗 LinkedIn: [your-linkedin]  
+## 🚀 What I’m Currently Working On
+
+- Learning cybersecurity fundamentals & network security  
+- Practicing DSA / Algorithms / Problem-solving  
+- Planning to build a small game / project for practice  
 
 ---
-⭐ **“Learning. Building. Growing.”**
+
+> “Learning, building & growing.”  
